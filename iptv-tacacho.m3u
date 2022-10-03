@@ -2,4 +2,8 @@
 http://95.154.197.48/tsstreamer/AfricanewsLDAI_SD.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC News 720p🌐
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One HD (540p)
+http://w4.12all.tv:4000/play/bbc1/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="Undefined",BBC Two HD (720p)
+http://w4.12all.tv:4000/play/bbc2/index.m3u8
 
